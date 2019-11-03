@@ -1,0 +1,151 @@
+BODY {
+	font-size:12px;
+	FONT-FAMILY: ËÎÌו;
+	margin:0px;
+}
+a:link{ color:#0042d1; text-decoration:none}
+a:hover{ color:#ff6600; text-decoration:underline}
+a:visited{ color:#0042d1; text-decoration:none}
+
+.top{border-bottom:Solid #cccccc 1px;background-color:#f2f2f2; height:22px;width:100%;line-height:22px;}
+.top .m_c{ width:100%; margin:auto}
+
+
+.top a:link{ color:#666666;TEXT-DECORATION: none;}
+.top a:hover{ color:#ff6600;TEXT-DECORATION: underline;}
+.top a:visited{ color:#666666;TEXT-DECORATION: none;}
+
+.top .h{color:#999999;font-size:14px;padding-left:2px;}
+.l{ float:left}
+.r{ float:right}
+
+#header{ width:750px; margin:auto; margin-top:10px;}
+#header .sm{ font-size:12px; text-align:left; margin-bottom:10px;}
+#header .t{ font-family:Georgia, "Times New Roman", Times, serif; font-size:18px;color:#0042d1}
+#header .ss{ font-size:14px; text-align:right; margin-bottom:10px;}
+#header .ss a{ font-size:14px; text-align:right;}
+
+#tip{ 
+width:713px; 
+margin:auto; 
+padding:5px; 
+margin-top:10px; 
+border:solid #eeeeee 1px; 
+text-align:left; background:url(/images/tip1.gif) no-repeat 5px center;
+padding-left:30px;
+background-color:#FFFFee;
+margin-bottom:10px; }
+
+#search{ width:750px; height:60px; margin:auto; background:url(/images/index_search.jpg) no-repeat left center;padding-top:8px;margin-bottom:0px; padding-bottom:0px;}
+#search .findInto {
+	BORDER-RIGHT: #cdcdcd 1px solid; 
+	PADDING-RIGHT: 0px; 
+	BORDER-TOP: #cdcdcd 1px solid; 
+	PADDING-LEFT: 5px; 
+	FONT-SIZE: 14px; 
+	PADDING-BOTTOM: 0px; 
+	BORDER-LEFT: #cdcdcd 1px solid; 
+	WIDTH: 500px; 
+	COLOR: #aab7c7; 
+	LINE-HEIGHT: 22px; 
+	PADDING-TOP: 0px; 
+	BORDER-BOTTOM: #cdcdcd 1px solid; HEIGHT: 24px
+}
+
+#search a{ color:#FFFFFF}
+#hotkey{ width:748px; margin:auto; margin-bottom:10px; border-bottom:solid #dddddd 1px;border-left:solid #dddddd 1px;border-right:solid #dddddd 1px;}
+#hotkey .k_t{ text-align:left; padding-left:10px; font-size:14px; font-weight:bold; border-bottom:solid #f2f2f2 1px;}
+#hotkey .k_t a{}
+#hotkey .k_c{ text-align:left; padding:10px; line-height:150%}
+
+#main_box{ width:900px; margin:auto}
+#main_box .m_l{ float:left; width:220px;}
+#main_box .m_l h2{ text-align:left; height:28px; line-height:28px;font-size:14px; font-weight:bold; padding-left:5px; border-bottom: dotted #f2f2f2 1px; margin-bottom:5px;}
+#main_box .m_l .cm ul{ width:220px; margin:0px; padding:0px;}
+#main_box .m_l .cm li{ list-style-type:none; padding-left:5px; margin-top:0px; text-align:left; line-height:150%}
+#main_box .m_l .n ul{  margin:0px; padding:0px; padding-left:27px;}
+#main_box .m_l .n li{ list-style-type:decimal; text-align:left; padding-left:0px; line-height:150%}
+#main_box .m_l .gg table{ font-size:12px;}
+
+#main_box .m_r{ float:right; width:530px;}
+#main_box .m_r .b_c { margin-bottom:10px;}
+#main_box .m_r .b_c ul{ width:530px; margin:0px; padding:0px;}
+#main_box .m_r .b_c li{ width:65px; float:left; list-style-type:none; font-size:14px; line-height:150%}
+
+#main_box .m_r .b_c .t{border-bottom:solid #f2f2f2 1px; margin-bottom:5px; text-align:left; background-color:#f8f8f8}
+#main_box .m_r .b_c .t .l{height:22px; font-size:14px; font-weight:bold; color:#000000; width:220px;padding-left:8px;}
+#main_box .m_r .b_c .t .r{ float:right; text-align:right; font-size:14px; width:220px;}
+
+
+#main_box .m_r .c_t{ margin-bottom:20px;}
+#main_box .m_r .c_t .t{border-bottom:solid #f2f2f2 1px; margin-bottom:5px; text-align:left;background-color:#f8f8f8}
+#main_box .m_r .c_t .t .l{height:16px; font-size:16px; font-weight:bold; color:#000000}
+#main_box .m_r .c_t .t .r{ height:16px;text-align:center; font-size:18px;color:#FF0000}
+#main_box .m_r .c_t ul{ width:650px; margin:0px; padding:0px; }
+#main_box .m_r .c_t li{ width:600px; padding-left:8px; text-align:left; float:left; list-style-type:none; font-size:12px; line-height:150%}
+
+
+#main_box .m_r .p{ margin-bottom:10px;}
+#main_box .m_r .p .t{border-bottom:solid #f2f2f2 1px; margin-bottom:5px; text-align:left;background-color:#f8f8f8}
+#main_box .m_r .p .t .l{height:22px; font-size:14px; font-weight:bold; color:#000000}
+#main_box .m_r .p .t .r{ float:right; text-align:right; font-size:14px;}
+
+#main_box .m_r .p ul{ width:530px; margin:0px; padding:0px;}
+#main_box .m_r .p li{ width:160px; padding-left:8px; text-align:left; float:left; list-style-type:none; font-size:12px; line-height:150%}
+
+.c_b{ border:solid #dddddd 1px; padding:5px; margin-bottom:10px;width:220px;}
+
+#ads{ width:750px; margin:auto}
+
+#footer{border-top:solid #cccccc 1px; margin-top:10px;}
+#footer li{ list-style-type:none; margin-bottom:10px;}
+.activities {
+	color:#0042d1 ;font-size:12px ;text-decoration:none
+}
+.activities A{
+	color:#0042d1 ;font-size:12px ;text-decoration:none
+}
+.activities A:hover{
+	color:#ff6600 ;font-size:12px ;text-decoration:none
+	
+}
+.categories {
+	color:#EEEEEE ;font-size:12px ;text-decoration:none
+}
+.categories A{
+	color:#EEEEEE ;font-size:12px ;text-decoration:none
+}
+.categories A:hover{
+	color:#EEEEEE ;font-size:12px ;text-decoration:underline
+}
+.categories1 {
+	color:#0042d1 ;font-size:12px ;text-decoration:none
+}
+.categories1 A{
+	color:#0042d1 ;font-size:12px ;text-decoration:none
+}
+.categories1 A:hover{
+	color:#FF9900;
+	font-size:12px;
+	text-decoration:underline;
+}
+.categories2 {
+	color:#ffffff ;font-size:12px ;text-decoration:none
+}
+.categories2 A{
+	color:#fffff ;font-size:12px ;text-decoration:none
+}
+.categories2 A:hover{
+	color:#ffffff ;font-size:12px ;text-decoration:underline
+	
+}
+.categories3 {
+	color:#ffffff ;font-size:14px ;text-decoration:none
+}
+.categories3 A{
+	color:#fffff ;font-size:14px ;text-decoration:none
+}
+.categories3 A:hover{
+	color:#ffffff ;font-size:14px ;text-decoration:underline
+	
+}
